@@ -1,4 +1,5 @@
 ﻿<?php
 $sample = 'hello';
-$secondline = 2;
+$secondline = 3;
+$thirdline='test';
 ?>
